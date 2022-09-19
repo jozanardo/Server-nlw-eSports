@@ -1,5 +1,9 @@
 # Back-end
 
+##About
+BackEnd desenvolvido durante o workshop NLW eSports proporcionado pela RocketSeat.<br/>
+Para acessar o front dessa aplicação, siga para o link ao lado: https://github.com/jozanardo/web-nlw-eSports
+
 ## Entidades 
 
 ### Game
